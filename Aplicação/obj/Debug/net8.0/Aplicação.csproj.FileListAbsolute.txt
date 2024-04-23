@@ -1,0 +1,14 @@
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\obj\Debug\net8.0\Aplicação.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\obj\Debug\net8.0\Aplicação.AssemblyInfoInputs.cache
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\obj\Debug\net8.0\Aplicação.AssemblyInfo.cs
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\obj\Debug\net8.0\Aplicação.csproj.CoreCompileInputs.cache
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\bin\Debug\net8.0\Aplicação.exe
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\bin\Debug\net8.0\Aplicação.deps.json
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\bin\Debug\net8.0\Aplicação.runtimeconfig.json
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\bin\Debug\net8.0\Aplicação.dll
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\bin\Debug\net8.0\Aplicação.pdb
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\obj\Debug\net8.0\Aplicação.dll
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\obj\Debug\net8.0\refint\Aplicação.dll
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\obj\Debug\net8.0\Aplicação.pdb
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\obj\Debug\net8.0\Aplicação.genruntimeconfig.cache
+c:\Users\mathe\OneDrive\Área de Trabalho\Atividade Back - End\Aplicação\obj\Debug\net8.0\ref\Aplicação.dll
